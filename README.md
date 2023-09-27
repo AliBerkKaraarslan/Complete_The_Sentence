@@ -13,7 +13,7 @@ While in the program, go to "File" then "Load" and select the desired text file.
 Note: Loaded data will be saved in the same path as "CompleteTheSentence.java" with the name of "data.txt". Therefore, it could be changed directly from there.
 
 ## How Is It Working? 
-The program loads all the data into a Trie Data Structure(char by char). When an input entered, it moves in the Trie path and finds the shortest meaningful sentence. Then shows the guesses. 
+The program loads all the data into the Trie Data Structure (char by char). When an input entered, it moves across the Trie and finds the shortest meaningful sentence. Then shows the guesses. 
   
 ##
 Ali Berk Karaarslan
